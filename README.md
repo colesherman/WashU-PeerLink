@@ -4,8 +4,8 @@ WashU PeerLink is a service that allows WashU students to easily connect with th
 
 
 # App Demo
-![](https://github.com/colesherman/WashU-PeerLink/blob/main/appdemo.gif)
+<img src="https://github.com/colesherman/WashU-PeerLink/blob/main/appdemo.gif" width="50%"/>
+
 
 # Onboarding Demo
-
-![](https://github.com/colesherman/WashU-PeerLink/blob/main/onboarding-demo.gif)
+<img src="https://github.com/colesherman/WashU-PeerLink/blob/main/onboarding-demo.gif" width="50%"/>
